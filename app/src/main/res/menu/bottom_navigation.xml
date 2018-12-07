@@ -3,16 +3,16 @@
 
     <item
         android:id="@+id/nav_dog"
-        android:icon="@drawable/ic_pets_black_24dp"
-        android:title="Dog" />
+        android:icon="@drawable/sunicon"
+        android:title="@string/sunnyday" />
 
     <item
         android:id="@+id/nav_cat"
-        android:icon="@drawable/cat1"
-        android:title="Cat" />
+        android:icon="@drawable/sleighicon"
+        android:title="@string/christmas" />
 
     <item
         android:id="@+id/nav_help"
-        android:icon="@drawable/ic_help_red_24dp"
-        android:title="Help" />
+        android:icon="@drawable/question"
+        android:title="@string/help" />
 </menu>
